@@ -1,0 +1,3 @@
+[info] steps=10/100 loss=3.21
+[info] steps=20/100 loss=2.89
+…
